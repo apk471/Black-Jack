@@ -1,4 +1,4 @@
- ## Blackjack Game**
+ ## Blackjack Game
 
 **A Python implementation of the classic card game Blackjack.**
 
